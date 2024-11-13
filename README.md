@@ -14,3 +14,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## Laravel Jetstream
+
+<p align="center"><img width="371" height="58" src="https://github.com/laravel/jetstream/blob/2abbbba107e083f22ecf17722fe35dbc52674770/art/logo.svg" alt="Logo Laravel Jetstream"></p>
+
+<p align="center">
+    <a href="https://github.com/laravel/jetstream/actions"><img src="https://github.com/laravel/jetstream/workflows/tests/badge.svg" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/laravel/jetstream"><img src="https://img.shields.io/packagist/dt/laravel/jetstream" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/laravel/jetstream"><img src="https://img.shields.io/packagist/v/laravel/jetstream" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/laravel/jetstream"><img src="https://img.shields.io/packagist/l/laravel/jetstream" alt="License"></a>
+</p>
